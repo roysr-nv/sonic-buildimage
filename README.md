@@ -229,6 +229,7 @@ Guide for performing commits:
 
 For example:
 
+
 >     swss-common: Stabilize the ConsumerTable
 >
 >     * Fixing autoreconf
